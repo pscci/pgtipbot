@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-    "token": "1711591091:AAFVwn9xRYVPPy67A05fPoYT-I6GYWYn5Ao"
   },
   "keywords": [],
   "author": "Artur Temirov",
