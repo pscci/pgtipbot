@@ -1,7 +1,7 @@
 {
-  "name": "honktipbot",
+  "name": "pgtipbot",
   "version": "1.0.0",
-  "description": "Honk Tip Bot",
+  "description": "PG Tip Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
